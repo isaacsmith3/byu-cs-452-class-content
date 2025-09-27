@@ -1,5 +1,5 @@
 import json
-from openai import OpenAI
+from openai import OpenAI # type: ignore
 import os
 import sqlite3
 from time import time
