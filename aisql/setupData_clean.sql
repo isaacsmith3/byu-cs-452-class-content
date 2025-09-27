@@ -22,7 +22,8 @@ INSERT INTO users (id, email, first_name, last_name, credits, role_id, created_a
 ('user-003', 'bob.wilson@cloudsystems.com', 'Bob', 'Wilson', 75, 2, '2024-01-17 12:00:00'),
 ('user-004', 'alice.brown@aiinnovations.com', 'Alice', 'Brown', 200, 1, '2024-01-18 13:00:00'),
 ('user-005', 'charlie.davis@startupxyz.com', 'Charlie', 'Davis', 25, 3, '2024-01-19 14:00:00'),
-('user-006', 'diana.garcia@techcorp.com', 'Diana', 'Garcia', 150, 2, '2024-01-20 15:00:00');
+('user-006', 'diana.garcia@techcorp.com', 'Diana', 'Garcia', 150, 2, '2024-01-20 15:00:00'),
+('user-007', 'enterprise.lead@email.com', 'Enterprise', 'Lead', 100, 2, '2024-01-21 16:00:00');
 
 -- Insert user-company relationships
 INSERT INTO users_companies (user_id, company_id, created_at) VALUES
