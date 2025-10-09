@@ -1,6 +1,6 @@
 from openai import OpenAI
-import pandas as pd
-import tiktoken
+import pandas as pd # type: ignore
+import tiktoken # type: ignore
 from datetime import datetime
 import json
 import os

@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd # type: ignore
 from sentence_transformers import SentenceTransformer
 import torch
 from datetime import datetime
