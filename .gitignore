@@ -3,3 +3,4 @@ config.json
 rag/free/free_paragraphs.csv
 rag/free/free_talks.csv
 rag/openai/openai_talks.csv
+rag/openai/openai_paragraphs.csv
