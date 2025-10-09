@@ -1,14 +1,14 @@
-import requests
-from bs4 import BeautifulSoup
-import pandas as pd
+import requests # type: ignore
+from bs4 import BeautifulSoup # type: ignore
+import pandas as pd # type: ignore
 import re
 import time
 import logging
 from urllib.parse import urlparse
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+from requests.adapters import HTTPAdapter # type: ignore
+from urllib3.util.retry import Retry # type: ignore
 import json
 
 with open("config.json") as config:
