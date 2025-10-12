@@ -4,3 +4,5 @@ rag/free/free_paragraphs.csv
 rag/free/free_talks.csv
 rag/openai/openai_talks.csv
 rag/openai/openai_paragraphs.csv
+rag/free/free_3_clusters.csv
+rag/openai/openai_3_clusters.csv

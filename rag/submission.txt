@@ -1,0 +1,181 @@
+FREE RESULTS: 
+
+=== Question 1: How can I gain a testimony of Jesus Christ? ===
+
+Top 3 Talks:
+  The Power of Ministering to the One by By Elder Peter M. Johnson (similarity: 0.5678)
+    Text preview: Sisters and brothers, thank you for your faithful devotion in coming unto Jesus Christ during these challenging times. You are wonderful; you are beautiful; you are each a child of God. It is my praye...
+  We Talk of Christ by By Elder Neil L. Andersen (similarity: 0.5621)
+    Text preview: I express my love for you, our beloved friends and fellow believers. I have admired your faith and courage during these past months, as this worldwide pandemic has disrupted our lives and taken precio...
+  Draw Near unto Me by By President Henry B. Eyring (similarity: 0.5330)
+    Text preview: My dear brothers and sisters, it is a joy for me to be with you in this general conference of The Church of Jesus Christ of Latter-day Saints. This is His Church. We are gathered in buildings and home...
+
+Top 3 Paragraphs:
+  The Testimony of Jesus by By Elder D. Todd Christofferson (similarity: 0.7394)
+    Text: What is the testimony of Jesus?...
+  Nourishing and Bearing Your Testimony by By Elder Gary E. Stevenson (similarity: 0.7279)
+    Text: How do I keep my testimony?...
+  Remember What Matters Most by By President M. Russell Ballard (similarity: 0.7227)
+    Text: I invite you to bear your testimony of Jesus Christ more often. Bear testimony of what you know and believe and what you feel, not just of what you are thankful for. Testify of your own experiences of...
+
+Top 3 Clusters:
+  Nourishing and Bearing Your Testimony by By Elder Gary E. Stevenson (similarity: 0.7473)
+    Text: ['My beloved brothers and sisters, I promise that as you more fully understand what a testimony is, and as you share it, you will overcome obstacles of uncertainty and fear, enabling you to nurture an...
+  Remember What Matters Most by By President M. Russell Ballard (similarity: 0.7334)
+    Text: ['Brothers and sisters, I testify and witness to you that I know that Jesus Christ is the Savior and Redeemer of the world. He lives. He is the resurrected Son of God, and this is His Church, led by H...
+  Never Give Up an Opportunity to Testify of Christ by By President Bonnie H. Cordon (similarity: 0.7065)
+    Text: ['The adversary creates so much noise that it can be difficult to hear the Lords voice. Our world, our challenges, our circumstances will not get quieter, but we can and must hunger and thirst after t...
+
+=== Question 2: What are some ways to deal with challenges in life and find a purpose? ===
+
+Top 3 Talks:
+  Focus on Jesus Christ by By Brother Milton Camargo (similarity: 0.5324)
+    Text preview: My father used to tell me, Dont focus so intensely on your problems that you cant see the solution.
+
+I testify that the Lord Jesus Christ is the solution to even our most difficult problems. Specifica...
+  Hallmarks of Happiness by By Elder Gary B. Sabin (similarity: 0.4448)
+    Text preview: While on a business flight several years ago, I found myself seated next to a man from the Netherlands. I was eager to visit with him since I had served in Belgium and the Netherlands as a young missi...
+  Remember Thy Suffering Saints, O Our God by By Elder Anthony D. Perkins (similarity: 0.4370)
+    Text preview: Heavenly Fathers plan of happiness includes a mortal experience where all of His children will be tested and face trials. Five years ago I was diagnosed with cancer. I have felt and still feel the phy...
+
+Top 3 Paragraphs:
+  Be of Good Cheer by By President Dallin H. Oaks (similarity: 0.5962)
+    Text: You may be facing overwhelming challenges, Elder RichardG. Scott taught. Sometimes they are so concentrated, so unrelenting, that you may feel they are beyond your capacity to control. Dont face the w...
+  A Higher Joy by By Elder Dieter F. Uchtdorf (similarity: 0.5939)
+    Text: Seek diligently for everyday moments of hope, peace, and joy....
+  God Knows and Loves You by By Elder Alan T. Phillips (similarity: 0.5914)
+    Text: Life is challenging. Many people feel overwhelmed, alone, isolated, or exhausted. When things are difficult, we may feel that we have wandered or fallen behind. Knowing that we are all children of God...
+
+Top 3 Clusters:
+  Opposition in All Things by By Elder Mathias Held (similarity: 0.5607)
+    Text: ['Choosing to develop trust in God or to fearfully anticipate another challenge the next day.', 'As when I took a wrong turn on that highway, suffering from the consequences of our own poor decisions ...
+  Focus on Jesus Christ by By Brother Milton Camargo (similarity: 0.5402)
+    Text: ['I testify that the Lord Jesus Christ is the solution to even our most difficult problems. Specifically, He has overcome four problems that every one of us faces and that not one of us can solve on o...
+  Remember Thy Suffering Saints, O Our God by By Elder Anthony D. Perkins (similarity: 0.5311)
+    Text: ['Heavenly Fathers plan of happiness includes a mortal experience where all of His children will be tested and face trials. Five years ago I was diagnosed with cancer. I have felt and still feel the p...
+
+=== Question 3: How can I fix my car if it won't start? ===
+
+Top 3 Talks:
+  Look to God and Live by By Elder D. Todd Christofferson (similarity: 0.2181)
+    Text preview: Last June, a terrible accident occurred in the country of Lesotho in southern Africa. A small bus carrying 20 young women of the Maputsoe Branch of the Church and seven of their leaders was headed to ...
+  Focus on Jesus Christ by By Brother Milton Camargo (similarity: 0.1584)
+    Text preview: My father used to tell me, Dont focus so intensely on your problems that you cant see the solution.
+
+I testify that the Lord Jesus Christ is the solution to even our most difficult problems. Specifica...
+  Walking in Covenant Relationship with Christ by By President Emily Belle Freeman (similarity: 0.1309)
+    Text preview: I was introduced to a trail in Israel by my good friend Ilan. Its called the Jesus Trail, he said, because its the path from Nazareth to Capernaum that many believe Jesus walked. I decided right then ...
+
+Top 3 Paragraphs:
+  He Is Risen with Healing in His Wings: by By Elder Patrick Kearon (similarity: 0.3414)
+    Text: I am damaged beyond repair....
+  We Will Prove Them Herewith by By Elder David A. Bednar (similarity: 0.3148)
+    Text: Examine me, O Lord, and prove me; try my reins and my heart....
+  The Covenant Path: The Way to Eternal Life by By Elder Adeyinka A. Ojediran (similarity: 0.2995)
+    Text: When our daughter was five years old, she had a battery-powered model car and loved to drive it around the house. One evening, she came to me and said, Daddy, my car no longer drives. Could we get som...
+
+Top 3 Clusters:
+  The Covenant Path: The Way to Eternal Life by By Elder Adeyinka A. Ojediran (similarity: 0.2488)
+    Text: ['I later observed that the battery power was down, so I said we would get it to drive in about an hour. With so much excitement, she said, Yes! We will take it to the gas station. I simply connected ...
+  He Could Heal Me! by By Elder Peter F. Meurs (similarity: 0.2109)
+    Text: ['Amid the stress and confusion of that accident scene, our eldest daughter, 11-year-old Kate, said with urgency, Dad, you need to give Jarom a blessing. After some struggle, my daughters and I manage...
+  He Is Risen with Healing in His Wings: by By Elder Patrick Kearon (similarity: 0.2103)
+    Text: ['I will not leave you.', 'You are mine.', 'Walk with me; learn of me; I will give you rest.']...
+
+================================================================================
+Note: OpenAI embeddings use a different model (1536 dimensions) than the free embeddings (384 dimensions).
+To compare OpenAI embeddings, you would need to use the same OpenAI model that generated them.
+The free embeddings comparison above shows the results using the all-MiniLM-L6-v2 model.
+
+
+OPENAI RESULTS:
+
+=== Question 1: How can I gain a testimony of Jesus Christ? ===
+
+Top 3 Talks:
+  Nourishing and Bearing Your Testimony by By Elder Gary E. Stevenson (similarity: 0.6541)
+    Text preview: Defining moments in life come often and unexpectedly, even when you are still young. Allow me to share a story about a high school student, Kevin, chosen to travel out of state for a student leader ev...
+  Never Give Up an Opportunity to Testify of Christ by By President Bonnie H. Cordon (similarity: 0.6353)
+    Text preview: Five years ago today, we raised our hands to sustain our beloved prophet, President RussellM. Nelson, as President of The Church of Jesus Christ of Latter-day Saintsthe Lords mouthpiece for this remar...
+  The Eternal Gift of Testimony by By Elder Kevin G. Brown (similarity: 0.6154)
+    Text preview: My dear brothers and sisters, lately I have been reflecting on three powerful truths from the Restoration. These truths have profoundly blessed my life. Today, I would like to share with you how these...
+
+Top 3 Paragraphs:
+  Nourishing and Bearing Your Testimony by By Elder Gary E. Stevenson (similarity: 0.7203)
+    Text: How do I keep my testimony?...
+  The Testimony of Jesus by By Elder D. Todd Christofferson (similarity: 0.7075)
+    Text: What is the testimony of Jesus?...
+  Remember What Matters Most by By President M. Russell Ballard (similarity: 0.7036)
+    Text: I invite you to bear your testimony of Jesus Christ more often. Bear testimony of what you know and believe and what you feel, not just of what you are thankful for. Testify of your own experiences of...
+
+Top 3 Clusters:
+  Nourishing and Bearing Your Testimony by By Elder Gary E. Stevenson (similarity: 0.7308)
+    Text: ['How do I keep my testimony?', 'Brothers and sisters, I invite you to seek opportunities to bear your testimony in word and in deed. Such an opportunity came to me recently, at the end of a meeting w...
+  Remember What Matters Most by By President M. Russell Ballard (similarity: 0.7297)
+    Text: ['I invite you to bear your testimony of Jesus Christ more often. Bear testimony of what you know and believe and what you feel, not just of what you are thankful for. Testify of your own experiences ...
+  Never Give Up an Opportunity to Testify of Christ by By President Bonnie H. Cordon (similarity: 0.7050)
+    Text: ['When Christ physically visited the Nephites at their temple, His invitation was not to stand at a distance and look upon Him, but to touch Him, to feel for themselves the reality of the Savior of hu...
+
+=== Question 2: What are some ways to deal with challenges in life and find a purpose? ===
+
+Top 3 Talks:
+  Opposition in All Things by By Elder Mathias Held (similarity: 0.4628)
+    Text preview: Recently, while driving in a city unknown to us, I inadvertently took a wrong turn, which led my wife and me onto an express highway for endless miles without being able to turn around again. We had r...
+  Be of Good Cheer by By President Dallin H. Oaks (similarity: 0.4483)
+    Text preview: In the final days of His mortal life, Jesus Christ told His Apostles of the persecutions and hardships they would suffer. He concluded with this great assurance: In the world ye shall have tribulation...
+  Remember Thy Suffering Saints, O Our God by By Elder Anthony D. Perkins (similarity: 0.4302)
+    Text preview: Heavenly Fathers plan of happiness includes a mortal experience where all of His children will be tested and face trials. Five years ago I was diagnosed with cancer. I have felt and still feel the phy...
+
+Top 3 Paragraphs:
+  God Knows and Loves You by By Elder Alan T. Phillips (similarity: 0.5521)
+    Text: Life is challenging. Many people feel overwhelmed, alone, isolated, or exhausted. When things are difficult, we may feel that we have wandered or fallen behind. Knowing that we are all children of God...
+  We Can Do Hard Things through Him by By Elder Isaac K. Morrison (similarity: 0.5484)
+    Text: While some challenges may come because of willful disobedience, we know that many of lifes challenges come because of other reasons. Whatever the source of our challenges, they can be a golden opportu...
+  A Higher Joy by By Elder Dieter F. Uchtdorf (similarity: 0.5122)
+    Text: Before we discuss how to find joy, allow me to acknowledge that depression and other difficult mental and emotional challenges are real, and the answer is not simply Try to be happier. My purpose toda...
+
+Top 3 Clusters:
+  Opposition in All Things by By Elder Mathias Held (similarity: 0.5070)
+    Text: ['When in health, cherish and be grateful for it every moment. When in sickness, seek to patiently learn from it and know that this can change again according to Gods will. When in sorrow, trust that ...
+  Remember Thy Suffering Saints, O Our God by By Elder Anthony D. Perkins (similarity: 0.4841)
+    Text: ['Regardless of where you live, physical or emotional suffering from a variety of trials and mortal weaknesses has been, is now, or will someday be part of your life.', 'Emotional suffering can arise ...
+  Be of Good Cheer by By President Dallin H. Oaks (similarity: 0.4622)
+    Text: ['Tribulation and challenges are the common experiences of mortality. Opposition is an essential part of the divine plan for helping us grow, and in the midst of that process, we have Gods assurance t...
+
+=== Question 3: How can I fix my car if it won't start? ===
+
+Top 3 Talks:
+  Christ Heals That Which Is Broken by By Amy A. Wright (similarity: 0.1806)
+    Text preview: A few years ago, at a family gathering, my then-eight-year-old nephew William asked our oldest son, Briton, if he would like to play ball with him. Briton enthusiastically responded, Yes! I would love...
+  The Healing Power of Jesus Christ by By Cristina B. Franco (similarity: 0.1600)
+    Text preview: Since the beginning of this year, we have dealt with many unexpected events. The loss of life and income due to the worldwide pandemic has seriously affected the global community and economy.
+
+Earthqu...
+  He Is Risen with Healing in His Wings: by By Elder Patrick Kearon (similarity: 0.1586)
+    Text preview: Marin, Im Elder Holland, and things are about to go downhill.
+
+We are all intrigued by survival stories. We hear tales of intrepid explorers and ordinary people alike who manage to keep themselves ali...
+
+Top 3 Paragraphs:
+  The Covenant Path: The Way to Eternal Life by By Elder Adeyinka A. Ojediran (similarity: 0.3929)
+    Text: When our daughter was five years old, she had a battery-powered model car and loved to drive it around the house. One evening, she came to me and said, Daddy, my car no longer drives. Could we get som...
+  The Covenant Path: The Way to Eternal Life by By Elder Adeyinka A. Ojediran (similarity: 0.3665)
+    Text: I later observed that the battery power was down, so I said we would get it to drive in about an hour. With so much excitement, she said, Yes! We will take it to the gas station. I simply connected th...
+  The Healing Power of Jesus Christ by By Cristina B. Franco (similarity: 0.2858)
+    Text: Rudy responded, saying, It couldnt be that bad. Just fix it up and bring it over....
+
+Top 3 Clusters:
+  The Covenant Path: The Way to Eternal Life by By Elder Adeyinka A. Ojediran (similarity: 0.4201)
+    Text: ['When our daughter was five years old, she had a battery-powered model car and loved to drive it around the house. One evening, she came to me and said, Daddy, my car no longer drives. Could we get s...
+  Opposition in All Things by By Elder Mathias Held (similarity: 0.2228)
+    Text: ['While on this highway and desperately looking for a way out again, I blamed myself for not paying better attention to the navigation system. This experience caused me to think about how in our lives...
+  Look down the Road by By Elder Alvin F. Meredith III (similarity: 0.2214)
+    Text: ['He drove a few miles to the outskirts of town to a long, straight, two-lane road that few people usedI should note, likely the only place he would have felt safe. He pulled over on the shoulder of t...
+
+================================================================================
+OpenAI embeddings comparison completed successfully!
+Results show the top 3 matches for each question using OpenAI's text-embedding-3-small model (1536 dimensions).
+
+ANALYSIS:
+The differences between full text, paragraph, and cluster models are the differences in the text searched by the RAG system. For full text, it's reading the whole talk. Paragraphs scan paragraphs, and clustering looks at 3 paragraphs at a time that were already classified as similar by the model. Overall, it seems that clusters and paragraphs did the best. Reading the whole talk makes it harder for an embedded question to be matched to it, it seems.
+

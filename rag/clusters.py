@@ -1,10 +1,10 @@
-import pandas as pd
+import pandas as pd # type: ignore
 import numpy as np
-from sklearn.cluster import KMeans
+from sklearn.cluster import KMeans # type: ignore
 import ast
 import logging
 from datetime import datetime
-from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics.pairwise import cosine_similarity  # type: ignore
 import os
 
 # Configure logging
