@@ -179,3 +179,70 @@ Results show the top 3 matches for each question using OpenAI's text-embedding-3
 ANALYSIS:
 The differences between full text, paragraph, and cluster models are the differences in the text searched by the RAG system. For full text, it's reading the whole talk. Paragraphs scan paragraphs, and clustering looks at 3 paragraphs at a time that were already classified as similar by the model. Overall, it seems that clusters and paragraphs did the best. Reading the whole talk makes it harder for an embedded question to be matched to it, it seems.
 
+================================================================================
+RAG SYSTEM: Retrieval-Augmented Generation with ChatGPT
+================================================================================
+Loading cluster embeddings...
+Generating question embeddings...
+2025-10-12 11:30:41,537 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+Running RAG system...
+
+Question 1: How can I gain a testimony of Jesus Christ?
+------------------------------------------------------------
+Retrieved: Nourishing and Bearing Your Testimony by By Elder Gary E. Stevenson
+Similarity Score: 0.7308
+2025-10-12 11:30:46,919 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Generated Response:
+----------------------------------------
+To gain a testimony of Jesus Christ, it is essential to actively seek opportunities to both nourish and bear your testimony to others. Elder Gary E. Stevenson's recent conference talk highlighted the transformative power of bearing one's testimony in word and deed. He shared a personal experience where he felt prompted to bear his testimony to government officials, resulting in a powerful spiritual experience that touched everyone present.
+
+By sharing your spiritual feelings with others, whether in formal Church settings or informal conversations, you not only strengthen your own testimony but also invite the Spirit to testify to those around you. Just as Elder Stevenson experienced the undeniable presence of the Spirit when he bore his testimony, we too can invite the same witness into our lives by actively seeking opportunities to share our beliefs and feelings about Jesus Christ.
+
+Practically, one way to gain a testimony of Jesus Christ is to regularly engage in personal and communal acts of faith, such as prayer, scripture study, and service. As you actively seek to live the principles taught by Jesus Christ, you will naturally find opportunities to bear your testimony to others. Remember that bearing your testimony is not just about verbal declarations but also about living in a way that reflects your beliefs.
+
+Additionally, seeking the guidance of the Holy Ghost through prayer can help you discern when and how to bear your testimony. As you strive to follow promptings and act on opportunities to share your beliefs, you will witness the confirming influence of the Spirit in your life, strengthening your testimony of Jesus Christ.
+
+In conclusion, gaining a testimony of Jesus Christ involves actively seeking opportunities to bear your testimony in word and deed, just as Elder Stevenson exemplified. By sharing your spiritual feelings with others and living in accordance with Christ's teachings, you invite the Spirit into your life and open your heart to receive a stronger witness of the Savior. Trust in the prompting of the Holy Ghost, diligently nurture your faith, and be willing to share your testimony with courage and humility. In doing so, you will find your testimony of Jesus Christ growing and deepening in profound ways.
+
+================================================================================
+
+Question 2: What are some ways to deal with challenges in life and find a purpose?
+------------------------------------------------------------
+Retrieved: Opposition in All Things by By Elder Mathias Held
+Similarity Score: 0.5070
+2025-10-12 11:30:51,339 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Generated Response:
+----------------------------------------
+Facing challenges in life is a universal experience, but as Elder Mathias Held emphasized in his talk "Opposition in All Things," how we react to these challenges can greatly impact our well-being and spiritual growth. One key way to deal with challenges and find purpose is by consciously choosing our attitude and response to difficult circumstances.
+
+Elder Held encourages us to shift our focus and elevate our thoughts to the positive aspects of challenges, even when they seem overwhelming. This requires a conscious effort to be grateful, have faith in Jesus Christ, and trust in God's plan for us. By choosing to believe, have faith, and trust in the Lord, we can find strength and purpose in the midst of trials.
+
+Moreover, Elder Held reminds us that we have agency in how we react to challenges. We can either choose a positive or pessimistic attitude, seek to learn from the experience, and ask for the Lord's help and support. This active approach to facing challenges empowers us to adjust, learn, seek, and choose how we respond to difficult situations.
+
+Practically speaking, when dealing with challenges, we can follow Elder Held's counsel by seeking both medical and spiritual help, adjusting our mindset to focus on the positive, and trusting in the promises of Jesus Christ. By building our foundation on the rock that is Jesus Christ, we can weather the storms of life with faith and confidence that He will succor us in our times of need.
+
+In conclusion, challenges are inevitable, but how we choose to react to them can make all the difference. By actively choosing a positive attitude, seeking help and support, and trusting in the Savior, we can find purpose and meaning in our trials. As we turn to Jesus Christ and rely on His promises, we can navigate challenges with hope and faith, knowing that He will receive and bless those who come unto Him.
+
+================================================================================
+
+Question 3: How can I fix my car if it won't start?
+------------------------------------------------------------
+Retrieved: The Covenant Path: The Way to Eternal Life by By Elder Adeyinka A. Ojediran
+Similarity Score: 0.4201
+2025-10-12 11:30:58,101 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Generated Response:
+----------------------------------------
+Based on the conference talk "The Covenant Path: The Way to Eternal Life" by Elder Adeyinka A. Ojediran, let's draw a parallel between fixing a car and our spiritual journey. Just like how your daughter's toy car needed a charged battery to run, our spiritual lives require a similar source of power to function effectively.
+
+In the talk, Elder Ojediran highlighted the importance of the Spirit and the sacrament in our lives. Just as the toy car needed the electric source to charge the battery and run smoothly, we need the Spirit to help us navigate through life's challenges and to faithfully keep our covenants. The sacrament serves as a source of spiritual energy that revitalizes our souls, much like fueling up a car to keep it running.
+
+To apply this analogy practically to fixing a car that won't start, you can first check the power source, which in this case would be the battery. Ensure the battery is charged or in good condition. Similarly, in our spiritual lives, we can ensure our spiritual "battery" is charged by regularly partaking of the sacrament, studying the scriptures, praying, and seeking the guidance of the Holy Ghost.
+
+Just as your daughter learned the importance of recharging her toy car's battery, we too must consistently recharge our spiritual batteries through these activities to maintain a strong connection to our Savior, Jesus Christ. By renewing our baptismal covenant and partaking of the sacrament, we can drive faithfulness to all other covenants and enjoy the promised blessings of the Lord.
+
+Remember that just as your daughter experienced a happy ending when her toy car started running again, we can also find joy and peace in our lives by faithfully following the covenant path, seeking the guidance of the Spirit, and partaking of the sacrament regularly. Trust in the Lord's promises and know that as we stay connected to Him, we will receive the strength and guidance we need to overcome any challenges that come our way.
+
+================================================================================
